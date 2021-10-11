@@ -13,6 +13,7 @@ body{
 	left: 50%;
 	transform: translate(-50%,-50%);
 	color: white;
+	
 }
 .login-box h1{
 	float: left;
@@ -22,7 +23,7 @@ body{
 	padding: 40px 40px 40px 40px;
 }
 .textbox{
-	widows: 100%;
+	width: 100%;
 	font-size: 20px;
   padding: 8px 0;
   margin: 8px 0;
@@ -30,7 +31,6 @@ body{
 }
 .textbox i{
 	width: 26px;
-	float: lef;
 	text-align: center;
 }
 .textbox input{
